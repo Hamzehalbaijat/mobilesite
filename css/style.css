@@ -1,0 +1,11 @@
+.icon {
+    font-size: 5vh;
+}
+
+.gradient-color {
+    background: linear-gradient(to bottom, blue 60%, rgb(196, 20, 196) 50%);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+}
