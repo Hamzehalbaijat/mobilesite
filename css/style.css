@@ -14,3 +14,10 @@
     background: linear-gradient(to bottom, blue  , purple );
     /* position: ; */
 }
+
+.footer {
+    margin-top: -40px
+}
+
+.footer-gradient {
+    background: linear-gradient(to right, #4431ed 45% , #931de3); }
