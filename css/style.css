@@ -9,3 +9,8 @@
     -webkit-background-clip: text;
     -moz-background-clip: text;
 }
+
+.circle {
+    background: linear-gradient(to bottom, blue  , purple );
+    /* position: ; */
+}
